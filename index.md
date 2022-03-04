@@ -32,25 +32,27 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # About me
 
-Hello there! I'm Pranav, a.k.a. `sysfs`. I apologise if this GitHub Page looks wonky; I'm still new to the whole thing. Nice to have visitors on it though! Considering that I don't know what else to put on it, I suppose I'll just use it to introduce myself while playing around in zenMarkdown. Let's first get the formalities out of the way.
+Hello there! I'm Pranav, a.k.a. `sysfs`. I apologise if this GitHub Page looks wonky; I'm still new to the whole thing. Nice to have visitors on it though! Considering that I don't know what else to put on it, I suppose I'll just use it to introduce myself while playing around in Markdown. Let's first get the formalities out of the way.
 
-|  |  |
+| > |  |
 | - | - |
-| **Year** | Second |
-| **Of** | Department of Energy Science and Engineering |
-| **At** | Indian Institute of Technology, Bombay |
+| **Year** | Second, of Five |
+| **For** | B.Tech+M.Tech, Dual Degree
+| **In** | Department of Energy Science and Engineering |
+| **At** | Indian Institute of Technology Bombay |
+| **From** | Mumbai
 
 Now's when the *real* introduction begins.
 
 ## My skills
-#### (and my proficiency/level-of-comfort in them... scored out of 5)
+(and my proficiency/level-of-comfort in them... scored out of 5)
 
-| | |
+| > |  |
 | - | - |
 | **Languages** | Python (4.5), LaTeX (4.5), Markdown (4), C++ (3.5), CSS (3.5), SQL (3.5), R (3), HTML (3), JavaScript (3) |
 | *currently exploring* | HTML, CSS, JavaScript |
-| **Fields** | Data Analytics (4.5), General Programming (4.5), Database Management (3), Web Development (2.5), UI Design (3...kinda) |
-| *currently exploring* | Web Development |
+| **Fields** | Data Analytics (4.5), General Programming (4.5), Database Management (3), UI Design (3...kinda), Web Development (2.5) |
+| *currently exploring* | Web Development, Collaborative Software Development |
 | **Platforms** | Visual Studio Code *(+every possible extension!)*, MS-SQL Server, Jupyter Notebook, UbuntuLTS+WSL2, Git Bash, GitHub, Windows Terminal |
 | *currently exploring* | Git Bash, GitHub |
 
@@ -62,9 +64,9 @@ Now's when the *real* introduction begins.
 + Team management in group projects.
 + Not being very funny.
 
-## What I'm passionate about
+## My passions
 
-|   |   |
+| > |  |
 | - | - |
 | **Fields** | Energy Policy, Data Science, Coding, Astronomy, Cosmology, General Science, Philosophy, Anthropology, Linguistics |
 | **Sports** | Cycling, Badminton |
